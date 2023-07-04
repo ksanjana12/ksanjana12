@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **a shopping website**
 
-- 🌱 I’m currently learning **java, HTML,Javascript**
+- 🌱 I’m currently learning **Javascript,Reactjs**
 
-- 💬 Ask me about **Java, HTML, MySQl**
+- 💬 Ask me about **C,C++,Java,HTML,CSS,MySQl**
 
 - 📫 How to reach me **koushalyasanjana@gmail.com**
 
