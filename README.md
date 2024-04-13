@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm K. Sanjana</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksanjana12&label=Profile%20views&color=0e75b6&style=flat" alt="ksanjana12" /> </p>
 
-- 🔭 I’m currently working on **a shopping website**
+- 🔭 I’m currently working on **An Anomaly Tool**
 
-- 🌱 I’m currently learning **Javascript,Reactjs**
+- 🌱 I’m currently learning **Springboot,Reactjs**
 
-- 💬 Ask me about **C,C++,Java,HTML,CSS,MySQl**
+- 💬 Ask me about **C,C++,Java,HTML,CSS,MySQl, Reactjs, Springboot**
 
 - 📫 How to reach me **koushalyasanjana@gmail.com**
 
