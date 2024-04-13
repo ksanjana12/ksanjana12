@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksanjana12&label=Profile%20views&color=0e75b6&style=flat" alt="ksanjana12" /> </p>
 
+- 🔭 I’m currently seeking opportunities to build my career in Software Development.
+
 - 🔭 I’m currently working on **An Anomaly Tool**
 
 - 🌱 I’m currently learning **Springboot,Reactjs**
