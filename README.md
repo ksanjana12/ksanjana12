@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently seeking opportunities to build my career in Software Development.
 
-- 🔭 I’m currently working on **An Anomaly Tool**
+- 🔭 I’m **pursuing an Internship at Verizon Data Services India**
 
 - 🌱 I’m currently learning **Springboot,Reactjs**
 
